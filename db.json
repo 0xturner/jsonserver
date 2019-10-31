@@ -1,4 +1,5 @@
-{
+{ 
+  "DATA": {
     "AMENITIES_BATHROOM": [
         {
             "ID": 1,
@@ -20573,4 +20574,5 @@
             "NAME": "Travel Resellers, Agents &Operators"
         }
     ]
+  }
 }
